@@ -5,3 +5,5 @@ To use this module in [Pylon](https://pylon.bot/), go to the editor, create a ne
 ```ts
 import "./potato";
 ```
+
+Original [Repository](https://github.com/PylonApps/potato) I based this on.
